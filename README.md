@@ -1,1 +1,1 @@
-Ciao! E' il mio primo progetto Rails
+Ciao!
